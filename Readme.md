@@ -1,6 +1,7 @@
 #  Spam-Ham Classification Using LSTM model on PyTorch: Step-by-step walkthrough
 
 This is how to train LSTM model in PyTorch and use it to predict Spam or Ham.
+You can see [the medium version](https://medium.com/@shijoonlee/spam-ham-classification-using-lstm-in-pytorch-950daec94a7c) of this readme.md
 
 ## I. Enron Spam Datasets 
 Researchers - V. Metsis, I. Androutsopoulos and G. Paliouras - classified over 30,000 emails in the Enron corpus as Spam/Ham datasets and have had them open to the public
